@@ -5,6 +5,9 @@ permalink: /posts/2025/08/tensor-decomposition/
 tags:
   - machine learning 
   - compression model
+  - cool posts
+  - category1
+  - category2
 ---
 
 
